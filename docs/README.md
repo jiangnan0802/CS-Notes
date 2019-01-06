@@ -47,7 +47,6 @@
 
 ## 🔨 工具
 
-> [Git](notes/Git.md) </br>
 > [Docker](notes/Docker.md) </br>
 > [正则表达式](notes/正则表达式.md) </br>
 > [构建工具](notes/构建工具.md)
