@@ -1,6 +1,6 @@
 <img width="150px" src="_media/LogoMakr_1J56bI.png">
 
-# 微云的笔记
+# 微云的札记
 
 > Computer Sicence Learning Notes.
 
