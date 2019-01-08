@@ -2,14 +2,7 @@
 
 <div align="center">
     <br>
-   
-    <a href="https://cyc2018.github.io/CS-Notes"> <img src="https://img.shields.io/badge/>-read-brightgreen.svg"></a>
-    <a><img src ="https://img.shields.io/appveyor/ci/gruntjs/grunt.svg"></a>
-    <a href="1"><img src="https://img.shields.io/github/last-commit/google/skia.svg"></a></div>
-
-
-
-[![Build Status](https://travis-ci.org/qiubaiying/qiubaiying.github.io.svg?branch=master)](https://travis-ci.org/qiubaiying/qiubaiying.github.io)
+[![Build Status](https://img.shields.io/badge/>-read-brightgreen.svg)](https://jiangnan0802.github.io/notes/#/)[![Build Status](https://img.shields.io/appveyor/ci/gruntjs/grunt.svg)](https://github.com/jiangnan0802/notes)[![last commit](https://img.shields.io/github/last-commit/google/skia.svg)](https://github.com/jiangnan0802/notes)
 
 ### 编码实践 
 
