@@ -1,4 +1,4 @@
-</br> <div align="center"><img src="group.png" width="300px"></div> </br>
+</br> <div align="center"><img src="group.png" width="300px"> </br>
 
 创建交流群的主要目的是为了给大家提供一个交流平台，方便大家在学习的过程中互相讨论。
 
