@@ -1,18 +1,21 @@
 
 
+<div align='center'>
+    <span style="font-family:Aril;font-size:48px;">微云的札记</span>
+    <br>
+    <a href="https://weyunx.com/notes">
+        <img src="https://img.shields.io/badge/>-read-brightgreen.svg"></a>
+    <a href="">
+    	<img src="https://img.shields.io/appveyor/ci/gruntjs/grunt.svg"></a>
+    <a href="">
+    	<img src="https://img.shields.io/github/last-commit/google/skia.svg"></a>
+</div>
 
 
-[![Build Status](https://img.shields.io/badge/>-read-brightgreen.svg)](https://jiangnan0802.github.io/notes/#/) [![Build Status](https://img.shields.io/appveyor/ci/gruntjs/grunt.svg)](https://github.com/jiangnan0802/notes) [![last commit](https://img.shields.io/github/last-commit/google/skia.svg)](https://github.com/jiangnan0802/notes)
 
-### 编码实践 
+[开始阅读](https://weyunx.com/notes)   
 
-- [代码可读性](https://github.com/CyC2018/CS-Notes/blob/master/docs/notes/代码可读性.md)
 
-  参考 编写可读代码的艺术。
-
-- [代码风格规范](https://github.com/CyC2018/CS-Notes/blob/master/docs/notes/代码风格规范.md)
-
-  Google 开源项目的代码风格规范。
 
 ### 后记 
 
