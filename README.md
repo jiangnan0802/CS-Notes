@@ -1,7 +1,7 @@
 
 
 <div align='center'>
-    <span style="font-family:Aril;font-size:48px;">微云的札记</span>
+    <span style="font-family:Arial;font-size:48px;">微云的札记</span>
     <br>
     <a href="https://weyunx.com/notes">
         <img src="https://img.shields.io/badge/>-read-brightgreen.svg"></a>
