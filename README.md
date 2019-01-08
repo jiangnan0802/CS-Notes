@@ -1,21 +1,9 @@
+#微云的札记
+
+[![Build Status](https://img.shields.io/badge/>-read-brightgreen.svg)](https://jiangnan0802.github.io/notes/#/) [![Build Status](https://img.shields.io/appveyor/ci/gruntjs/grunt.svg)](https://github.com/jiangnan0802/notes) [![last commit](https://img.shields.io/github/last-commit/google/skia.svg)](https://github.com/jiangnan0802/notes)
 
 
-<div align='center'>
-    <span style="font-family:Arial;font-size:48px;">微云的札记</span>
-    <br>
-    <a href="https://weyunx.com/notes">
-        <img src="https://img.shields.io/badge/>-read-brightgreen.svg"></a>
-    <a href="">
-    	<img src="https://img.shields.io/appveyor/ci/gruntjs/grunt.svg"></a>
-    <a href="">
-    	<img src="https://img.shields.io/github/last-commit/google/skia.svg"></a>
-</div>
-
-
-
-[开始阅读](https://weyunx.com/notes)   
-
-
+[开始阅读](https://weyunx.com/notes)
 
 ### 后记 
 
