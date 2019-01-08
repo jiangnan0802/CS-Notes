@@ -20,9 +20,10 @@
 
 本仓库主要是平时工作学习的笔记。
 
-#### 感谢
+#### 致谢
 
-此项目修改自  [Cyc](https://cyc2018.github.io/CS-Notes) 。
+- 这个模板是从这里 [CS-Notes](https://cyc2018.github.io/CS-Notes) fork 的, 感谢这个作者。
+- 感谢 Jekyll、Github Pages 和 Bootstrap!
 
 #### License
 
