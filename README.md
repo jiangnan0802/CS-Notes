@@ -1,6 +1,6 @@
 # 微云的札记
 
-[![Build Status](https://img.shields.io/badge/>-read-brightgreen.svg)](https://jiangnan0802.github.io/notes/#/) [![Build Status](https://img.shields.io/appveyor/ci/gruntjs/grunt.svg)](https://github.com/jiangnan0802/notes) [![last commit](https://img.shields.io/github/last-commit/google/skia.svg)](https://github.com/jiangnan0802/notes)
+[![Build Status](https://img.shields.io/badge/>-read-brightgreen.svg)](https://jiangnan0802.github.io/notes/#/) [![Build Status](https://img.shields.io/appveyor/ci/gruntjs/grunt.svg)](https://github.com/jiangnan0802/notes) 
 
 [开始阅读](https://weyunx.com/notes)
 
