@@ -2,13 +2,13 @@
 
 # 微云的札记
 
-> Computer Sicence Learning Notes.
+> 微云淡河汉 疏雨滴梧桐
 
-- Algorithm
-- Computer Networks
+- 网络
+- 数据库
 - ...
 
 <span id="busuanzi_container_site_pv">Site View : <span id="busuanzi_value_site_pv">
 
-[Get Started](README.md)
+[开始阅读](README.md)
 
