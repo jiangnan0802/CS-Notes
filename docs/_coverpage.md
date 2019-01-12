@@ -8,5 +8,6 @@
 - 数据库
 - ...
 
-[开始阅读](README.md)
+<span id="busuanzi_container_site_pv">阅读量 : <span id="busuanzi_value_site_pv">
 
+[开始阅读](README.md)
