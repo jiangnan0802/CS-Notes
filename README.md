@@ -12,7 +12,7 @@
 
 #### 致谢
 
-1. 这个模板是从这里 [CS-Notes](https://cyc2018.github.io/CS-Notes) fork 的, 感谢这个作者。
+1. 这个模板是从改自 [CS-Notes](https://cyc2018.github.io/CS-Notes) , 感谢这个作者。
 2. 感谢 Jekyll、Github Pages 和 Bootstrap!
 
 #### License
